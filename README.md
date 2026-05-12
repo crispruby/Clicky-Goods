@@ -20,8 +20,7 @@ Play Clicky Goods directly in your browser:
 
 ## Media / Press Mention 📰
 A gameplay demo of Clicky Goods was featured in an InfoNews article covering the Okanagan Game Developers Association and local game creators.
-Read the article here:
-https://infonews.ca/news/7551667/free-and-casual-pros-and-hobbyists-gather-in-kelowna-to-test-new-games
+Read the [**article**](https://infonews.ca/news/7551667/free-and-casual-pros-and-hobbyists-gather-in-kelowna-to-test-new-games).
 
 ## Notes 📘
 This project was created to practice 3D object spawning, click‑based interaction, score management, and level progression systems. It also includes timing‑based gameplay design and visual feedback for player actions. Clicky Goods is part of my ongoing development as a Unity programmer and game designer.
