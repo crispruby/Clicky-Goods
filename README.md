@@ -15,9 +15,8 @@ Clicky Goods includes three progressively challenging levels designed to test yo
 ## Web Builds 🌐
 Play Clicky Goods directly in your browser:
 
-Itch.io: https://captain-garneto.itch.io/clicky-goods
-
-Unity Play: https://play.unity.com/en/games/78977249-5d59-4a28-9ec1-b04a5477fb41/clicky-goods
+- [**Itch Games**](https://captain-garneto.itch.io/clicky-goods)
+- [**Unity Play**](https://play.unity.com/en/games/78977249-5d59-4a28-9ec1-b04a5477fb41/clicky-goods)
 
 ## Media / Press Mention 📰
 A gameplay demo of Clicky Goods was featured in an InfoNews article covering the Okanagan Game Developers Association and local game creators.
@@ -30,11 +29,9 @@ This project was created to practice 3D object spawning, click‑based interacti
 ## Author 👤
 Daniel Anthony Rozek
 
-Portfolio: https://crispruby.github.io/
-
-LinkedIn: https://www.linkedin.com/in/danielrozek/
-
-GitHub: https://github.com/crispruby
+[**Portfolio**](https://crispruby.github.io/), 
+[**LinkedIn**](https://www.linkedin.com/in/danielrozek/), 
+[**GitHub**](https://github.com/crispruby)
 
 ## License 📄
 This project is open‑source for educational and portfolio use.
