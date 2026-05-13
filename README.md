@@ -34,3 +34,8 @@ Daniel Anthony Rozek
 
 ## License 📄
 This project is open‑source for educational and portfolio use.
+
+## Screenshot Gallery 📸
+
+<img src="images/ClickyGoods1.png" width="100%">
+<img src="images/ClickyGoods2.png" width="100%">
